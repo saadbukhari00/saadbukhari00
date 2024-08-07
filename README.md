@@ -8,7 +8,7 @@
 
 <div align="center">
   
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/saadbukhari00)](www.linkedin.com/in/saadbukhari00) 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saadbukhari00)](https://www.linkedin.com/in/saadbukhari00)
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://saadbukhari00.github.io)](https://saadbukhari00.github.io)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/pov.saad/)](https://www.instagram.com/pov.saad/)
 </div>
