@@ -31,7 +31,7 @@
   <tr>
     <td align="center" style="padding: 0; width: 50%;">
       <a href="https://tryhackme.com/p/saadbukhari" target="_blank">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/saadbukhari.png" alt="TryHackMe" />
+        <img src="https://tryhackme-badges.s3.amazonaws.com/saadbukhari.png" alt="TryHackMe">
       </a>
   </td>
     <td align="center" style="padding: 0; width: 50%;">
