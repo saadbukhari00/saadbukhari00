@@ -9,7 +9,7 @@
 <div align="center">
   
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saadbukhari00)](https://www.linkedin.com/in/saadbukhari00)
-[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://saadbukhari00.github.io)](https://saadbukhari00.github.io)
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://saadbukhari00.github.io)](https://saadbukhari.github.io)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/pov.saad/)](https://www.instagram.com/pov.saad/)
 </div>
 
@@ -17,12 +17,12 @@
 
 - 🎓 BS Cybersecurity Student from [FAST](https://nu.edu.pk/), expecting to Graduate in 2027
 - 🔭 Currently working on cybersecurity tools and scripts.
-- 📝 Occasionally, I share my thoughts and experiences on my [blog](https://saadbukhari00.github.io/).
+- 📝 Occasionally, I share my thoughts and experiences on my [blog](https://saadbukhari.github.io/).
 - 📚 I am currently Learning React and MongoDB
 - 🧠 Ask Me About Cyber Security, Web Pentesting, Digital Forensics, Memory Analysis and Development
 - 💻 I code in C++, Python, Javascript, Rust, C#
 - 📫 I'm always reachable at <a href="mailto:syed4000saad@gmail.com">syed4000saad@gmail.com</a>.
-- 👨‍💻 Dive into my work and projects on my [portfolio](https://saadbukhari00.github.io/).
+- 👨‍💻 Dive into my work and projects on my [portfolio](https://saadbukhari.github.io/).
   
 <br>
 
