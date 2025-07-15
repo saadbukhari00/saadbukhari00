@@ -87,7 +87,7 @@
   
 <div align=center>
 
-![Visitor Count](https://profile-counter.glitch.me/{saadbukhari00}/count.svg)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=saadbukhari00.profile)
 
 </div>
 
